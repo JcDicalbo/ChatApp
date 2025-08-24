@@ -1,2 +1,2 @@
 # ChatApp
-Proyecto para probar Electron
+Proyecto de Aplicacion de chat para probar Electron
